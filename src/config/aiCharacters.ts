@@ -7,7 +7,7 @@ export const modelConfigs = [
   },
   {
     model: "deepseek-v3-241226",
-    apiKey: "sk-b4d4ec10de314de59da1d8e631e42bed",
+    apiKey: "ARK_API_KEY",
     baseURL: "https://ark.cn-beijing.volces.com/api/v3"
   },
   {
@@ -37,7 +37,7 @@ export const modelConfigs = [
   },
   {
     model: "deepseek-chat",
-    apiKey: "sk-b4d4ec10de314de59da1d8e631e42bed",
+    apiKey: "DEEPSEEK_API_KEY",
     baseURL: "https://api.deepseek.com/v1"
   },
   {
